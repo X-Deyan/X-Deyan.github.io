@@ -1,0 +1,57 @@
+.membershow {
+	width: 230px;
+	height: 230px;
+	float: left;
+	position: relative;
+	margin-right: 10px;
+	border: thin solid #CCC;
+}
+.membershow .mphoto {
+	width: 220px;
+	height: 220px;
+	margin-top:5px;
+	margin-left:5px;
+	position: relative;
+	position:absolute;
+}
+
+.membershow .mphoto .ng {
+	width: 220px;
+	height: 30px;
+	bottom: 0;
+	position: absolute;
+	background: rgba(255,255,255,0.5);
+	left: 1px;
+}
+
+.membershow .mphoto .ng .jng {
+	
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	text-align: center;
+}
+.allmem{
+	width:990px;
+	margin:0 auto;
+	height:auto;
+	padding-top:20px;
+	padding-bottom:30px;
+	background-color:#FFF;}
+.grade{
+	width: 850px;
+	font-size: 24px;
+	margin-left: 100px;
+	line-height: 24px;
+	height: 30px;
+	margin-top:50px;
+	margin-bottom:30px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.same_grade{
+	width:800px;
+	height:240px;
+	margin-left:150px;
+	}

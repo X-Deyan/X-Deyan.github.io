@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+.news_content{
+	width:990px;
+	height:auto;
+	margin:0 auto;
+	padding-top:150px;
+	background-color:#FFF;
+	text-align:center;
+	padding-bottom:20px;
+	background-image:url(../imag/news/fireworks.png);
+	background-repeat:no-repeat;}
+.title{
+	height: 30px;
+	width: 500px;
+	padding-top: 6px;
+	margin-bottom: 30px;
+	background-color: #FFF;
+	font-size: 24px;
+	line-height: 26px;
+	text-align: center;
+	font-weight: bolder;
+	}
+.content{
+	width:800px;
+	height:auto;
+	padding-top:10px;
+	font-size:14px;
+	line-height:20px;
+	text-align:left;
+	background-color:#FFF;}
+	
+.figurebox{
+	width: 603px;
+	height: 353px;
+	margin-bottom:5px;
+	margin-top:5px;
+	padding-left: 3px;
+	padding-top: 3px;
+	border: thin solid #CCC;
+	}

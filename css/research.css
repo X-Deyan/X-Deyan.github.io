@@ -1,0 +1,145 @@
+*{
+	margin:0;
+	padding:0;}
+.fieldbox{
+	width: 800px;
+	padding-left: 20px;
+	padding-top: 10px;
+	margin-left: 150px;
+	margin-top: 10px;
+	background-color: #FFF;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thick;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #C2CBCB;
+	border-right-color: #C2CBCB;
+	border-bottom-color: #C2CBCB;
+	border-left-color: #B8B8B8;
+	font-family: "微软雅黑";
+}
+.fieldbox:hover{
+		border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width:thin;
+	border-left-width: thick;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#A43E6B;
+	border-right-color: #A43E6B;
+	border-bottom-color: #A43E6B;
+	border-left-color: #A43E6B;
+	}
+.fieldbox_imag{
+	height: 80px;
+	width: 80px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-repeat: no-repeat;
+	font-family: "微软雅黑";
+	}
+.fieldbox_title{
+	width:700px;
+	float:left;
+	height:30px;
+	margin-top:10px;
+	text-align:left;
+	margin-left:10px;
+	font-size:24px;
+	font-family:"微软雅黑";
+	}
+.fieldbox_edit{
+	width: 780px;
+	float: left;
+	height: 30px;
+	margin-left: 10px;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	}
+.allfield{
+	margin: 0 auto;
+	width: 990px;
+	padding-top: 60px;
+	padding-bottom: 20px;
+	background-color: #FFF;
+	background-image: url(../imag/research/bgi.png);
+	background-repeat: no-repeat;
+	height: auto;
+	font-family: "微软雅黑";
+}
+.fieldbox_content{
+	width: 780px;
+	float: left;
+	height: auto;
+	margin-left: 10px;
+	margin-top: 8px;
+	font-size: 14px;
+	line-height: 20px;
+	font-family: "微软雅黑";
+	}
+.editor_photo{
+	height:25px;
+	margin-top:2px;
+	margin-left:20px;
+	float:left;
+	width:25px;
+	background-repeat:no-repeat;
+	}
+.edit_name{
+	width: 120px;
+	height: 14px;
+	float: left;
+	margin-top: 9px;
+	line-height: 14px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	}
+.edit_date{
+	width: 200px;
+	height: 16px;
+	margin-top: 9px;
+	float: left;
+	font-size: 14px;
+	line-height: 14px;
+	font-family: "微软雅黑";
+	}
+
+.fieldtitle{
+	margin-left: 10px;
+	height: 40px;
+	width: 970px;
+	font-size: 16px;
+	line-height: 40px;
+	text-align: left;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #C2CBCB;
+	font-weight: 900;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: "微软雅黑";
+	}
+.fieldmaxbox{
+	width: 990px;
+	height: 240px;
+	;
+	font-family: "微软雅黑";
+	}
+.figure{
+	width: 217px;
+	height: 217px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-right: 10px;
+	float: right;
+	border: thin solid #CCC;
+	}

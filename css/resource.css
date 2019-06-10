@@ -1,0 +1,54 @@
+.resoures_main_content{
+	width:990px;
+	margin:0 auto;
+	height:auto;
+	padding-top:100px;
+	padding-bottom:20px;
+	background-image:url(../imag/resoures/resource.png);
+	background-repeat:no-repeat;
+	background-color:#FFF;
+	}
+.pagetitle{
+	width: 820px;
+	height: 40px;
+	margin-bottom:40px;
+	font-size: 40px;
+	line-height: 40px;
+	margin-left:150px;
+	font-family:"微软雅黑";
+}
+.platform{
+	width: 750px;
+	margin-left: 180px;
+	padding-left:5px;
+	margin-top:15px;
+	margin-bottom: 15px;
+	height: 20px;
+	line-height: 18px;
+	font-size: 18px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	}
+.otherlab{
+	
+	}
+.resourcelist{
+	width: 717px;
+	height: 15px;
+	font-size: 12px;
+	margin-bottom: 15px;
+	margin-left: 200px;
+	padding-left: 3px;
+	line-height: 14px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;	
+	}
+.resourcelist a{
+	color:#000;
+	text-decoration: none;
+	}
+.resourcelist a:hover{
+	color:#F00;
+	}

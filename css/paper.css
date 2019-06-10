@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+.papers{
+	width:990px;
+	margin:0 auto;
+	height:auto;
+	padding-top:60px;
+	padding-bottom:20px;
+	background-color:#FFF;
+	background-image:url(../imag/publication/Publicationbg.png);
+	background-repeat:no-repeat;}
+.paperlist{
+	width: 840px;
+	height: auto;
+	padding-left:40px;
+	padding-bottom:20px;
+	padding-top:20px;
+	margin-top: 20px;
+	border: thin solid #CCC;
+	background-color: #FFF;
+	margin-left: 100px;	
+	}
+.listbox{
+	width:820px;
+	height:auto;}
+	
+.pagetitle{
+	width: 820px;
+	height: 40px;
+	font-size: 40px;
+	line-height: 40px;
+	margin-left: 80px;	
+	font-family: "微软雅黑";
+	font-weight: 500;	
+}
+.listbox ol li{
+	margin-top:5px;
+	
+	}
+.listbox ol li a{
+	font-size: 14px;
+	line-height: 20px;
+	text-align: left;
+	text-decoration: none;
+	color:#666;
+}
+.figurebox{
+	padding-top:3px;
+	padding-left: 3px;
+		border: thin solid #CCC;
+	}
+
+

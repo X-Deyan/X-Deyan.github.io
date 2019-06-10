@@ -1,0 +1,159 @@
+.equip{
+	width:990px;
+	height:auto;
+	margin:0 auto;
+	background-color:#FFF;
+	padding-top:60px;
+	padding-bottom:20px;
+	background-image:url(../imag/facility/facility.png);
+	background-repeat:no-repeat;
+	}
+.onebox{
+	width:240px;	
+	margin-top:10px;
+	float:left;
+	border:#DFDFDF 1px solid;
+	z-index:1;
+	background-color:#FFF;
+	}
+.onebox:hover{
+	border:#F00 1px solid;
+	
+	}
+.eq_photo{
+	margin:5px auto;
+	position:relative;
+	background-repeat:no-repeat;
+	z-index:1;
+	}
+.eqmanu{
+	width:230px;
+	height:85px;
+	margin:10px auto;
+	background-color:#DAE2E1;
+	z-index:1;
+	}
+.eqmanu:hover{
+	background-color:#D78C8C;
+
+	}
+.equipname{
+	padding-left:10px;
+	padding-top:10px;
+	font-size:12px;
+	font-weight:bolder;
+	width:218px;
+	color:#000;
+	height:32px;
+	line-height:12px;
+	border-bottom:#050505 1px dashed;
+	text-align:center;
+	line-height:12px;
+	z-index:1;
+	}
+.equipmanu{
+	font-size:9px;
+	height:40px;
+	color:#000;
+	text-align:center;
+	padding-left:20px;
+	line-height:20px;
+	width:210px;
+	z-index:1;
+	}
+.textdiscribe{
+	width:210px; 
+	height:110px;
+	font-size:10px;
+	display:none;
+	z-index:2;
+	background-color:rgba(100,100,100,0.5);
+	}
+.textdiscribe:hover{
+	display:block;}
+
+.systems{
+	width: 800px;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 160px;
+	background-color:#FFF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: thin solid #CCC;
+	}
+.systems:hover{
+	border: thin solid #F00;
+	}
+.otherequipment{
+	width: 810px;
+	height: 30px;
+	font-size: 24px;
+	margin-left: 150px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	line-height: 24px;
+	border-bottom-width: medium;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.equipbox{
+	width:800px;
+	height:300px;
+	margin-left:160px;
+	}
+.systemname{
+	height: 18px;
+	font-size:18px;
+	width: 800px;
+	margin-bottom:10px;
+	line-height:20px;
+	text-align: center;
+}
+	
+.name_date{
+	width:250px;
+	height:24px;
+	padding-top:10px;
+	margin:0 auto;
+	}
+.name{
+	width: 100px;
+	height: 14px;
+	font-size:14px;
+	line-height:14px;
+	float: left;
+	text-align: center;
+	
+	}
+.date{
+	width: 150px;
+	height: 14px;
+	float: left;
+	font-size:14px;
+	line-height:14px;
+	text-align: center;
+}
+.figure{
+	width: 603px;
+	height: 303px;
+	padding-top:3px;
+	padding-left:3px;
+	margin: 0 auto;
+	border: thin solid #CCC;
+	}
+.systemdetail{
+	width:700px;
+	padding-top:20px;
+	font-size:14px;
+	margin:0 auto;
+	line-height:20x;
+	height:auto;}
+.figure_a{
+	width: 603px;
+	height: 353px;
+	padding-top:3px;
+	padding-left:3px;
+	margin: 0 auto;
+	border: thin solid #CCC;
+	}
